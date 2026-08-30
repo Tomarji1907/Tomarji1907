@@ -14,15 +14,15 @@
 
 ## 👨‍💻 About Me
 
+### Hey! I'm **Yash Tomar** 👋
+
+I'm a student and developer interested in **programming and web development**.
+
 <div align="center">
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
 
 </div>
-
-### Hey! I'm **Yash Tomar** 👋
-
-I'm a student and developer interested in **programming and web development**.
 
 I enjoy learning by building projects and turning ideas into working applications.
 
@@ -135,46 +135,6 @@ A **Flipkart-inspired e-commerce website** created to practice frontend developm
 
 ---
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-
-</div>
-
----
-
-# 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&border_radius=10" width="600"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" width="90%"/>
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
-
-</div>
-
 ---
 
 # 🐍 Contribution Snake
@@ -244,7 +204,6 @@ A **Flipkart-inspired e-commerce website** created to practice frontend developm
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/🤖%20Explore-AI%20%2F%20ML-FF6F00?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/🐍%20Master-Python-3776AB?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/⚡%20Improve-JavaScript-F7DF1E?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/🌐%20Build-Advanced%20Web%20Apps-1572B6?style=for-the-badge"/>
@@ -257,8 +216,16 @@ A **Flipkart-inspired e-commerce website** created to practice frontend developm
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/Tomarji1907">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:sanatantomarji@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="www.linkedin.com/in/tomar-ji">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
